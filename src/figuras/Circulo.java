@@ -9,4 +9,14 @@ public class Circulo {
 		this.radio = radio;
 	}
 
+	public Integer getRadio() {
+		return radio;
+	}
+
+	public void setRadio(Integer radio) {
+		this.radio = radio;
+	}
+	
+	
+
 }
